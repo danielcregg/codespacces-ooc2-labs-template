@@ -1,4 +1,4 @@
-
+package ie.atu.intro;
 
 // This program prints 'Hello, World!' to the console.
 public class HelloWorld {

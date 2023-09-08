@@ -1,4 +1,4 @@
-
+package ie.atu.intro;
 
 // Basic JavaFX Sample
 import javafx.application.Application;
