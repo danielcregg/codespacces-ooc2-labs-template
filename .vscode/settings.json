@@ -10,4 +10,5 @@
     "workbench.colorCustomizations": {
         "tree.indentGuidesStroke": "#05ef3c"
     }
+    "editor.minimap.enabled": false
 }
