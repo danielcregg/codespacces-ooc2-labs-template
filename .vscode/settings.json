@@ -1,14 +1,21 @@
 {
-    "java.dependency.packagePresentation": "hierarchical",
+    "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
     "files.exclude": {
         "**/.devcontainer": true,
-        "**/.vscode": true
+        "**/.vscode": true,
+        "**/.gitignore": true,
+        "**/README.md": true,
+        "**/.github": true,
     },
-    "workbench.tree.indent": 15,
+    "java.server.launchMode": "Standard",
+    "java.dependency.packagePresentation": "hierarchical",
+    "redhat.telemetry.enabled": false,
+    "git.autofetch": true,
+    "workbench.tree.indent": 30,
     "workbench.tree.renderIndentGuides": "always",
     "workbench.colorCustomizations": {
         "tree.indentGuidesStroke": "#05ef3c"
     },
-    "editor.minimap.enabled": false
+    "workbench.colorTheme": "Default Dark Modern",
 }
